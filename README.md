@@ -1,5 +1,5 @@
 # InamorataShoppingApp
-![logo](logo.jpg)
+![logo](images/logo.jpg)
 
 # Project Purpose:
 
