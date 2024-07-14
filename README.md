@@ -1,4 +1,5 @@
 # InamorataShoppingApp
+![logo](logo.png)
 
 # Project Purpose:
 
@@ -12,4 +13,9 @@ This project is a mobile shopping application aimed at providing users with a mo
 - There are still some issues that need to be addressed.
 
 ## Project Interface Screenshots:
-<!-- Add your images here -->
+![image 1](images/image1.png)
+![image 2](images/image2.png)
+![image 3](images/image3.png)
+![image 4](images/image4.png)
+![image 5](images/image5.png)
+![image 6](images/image6.png)
