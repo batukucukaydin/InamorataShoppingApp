@@ -1,5 +1,5 @@
 # InamorataShoppingApp
-
+![logo](images/logo.png)
 ## Project Purpose:
 
 This project is a mobile shopping application aimed at providing users with a more interactive shopping experience using Augmented Reality. It was developed as a final year undergraduate project.
